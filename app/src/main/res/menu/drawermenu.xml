@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_baseline_person_pin_24"
+        android:title="My Profile"></item>
+    <item
+        android:id="@+id/language"
+        android:icon="@drawable/ic_baseline_language_24"
+        android:title="Language"></item>
+    <item
+        android:id="@+id/library"
+        android:icon="@drawable/ic_baseline_folder_24"
+        android:title="My Library"></item>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="Logout"></item>
+</menu>
